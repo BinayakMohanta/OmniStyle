@@ -1,0 +1,14 @@
+feature,mean_abs_shap
+average_discount,0.120923291171931
+recency_days,0.08658614774153792
+monetary,0.07493319342040515
+frequency,0.0510568257460938
+total_items_purchased,0.050908023407243104
+unique_products_purchased,0.04033377047956964
+customer_tenure_days,0.03896147429057156
+unique_categories_purchased,0.01910668678626427
+purchase_trend_ratio,0.012810660309460329
+avg_order_value,0.012014189870088062
+age,0.006332424174029591
+loyalty_points,0.005458149350239012
+loyalty_tier_encoded,0.003228764417266892

@@ -1,0 +1,38 @@
+# Environment / secrets
+.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+*.egg-info/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Trained models (regenerated locally)
+models/*.joblib
+!models/.gitkeep
+
+# Generated data (regenerated locally, keep folder placeholders)
+data/raw/*.csv
+data/processed/*.csv
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+
+# Dashboard sample data is generated, keep placeholder
+dashboard/sample_data/*.csv
+!dashboard/sample_data/.gitkeep
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log

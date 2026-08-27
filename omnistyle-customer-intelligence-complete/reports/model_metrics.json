@@ -1,0 +1,34 @@
+{
+  "best_model": "Random Forest",
+  "logistic_regression": {
+    "model": "Logistic Regression",
+    "precision": 0.945,
+    "recall": 0.852,
+    "f1_score": 0.896,
+    "roc_auc": 0.928
+  },
+  "random_forest": {
+    "model": "Random Forest",
+    "precision": 0.947,
+    "recall": 0.854,
+    "f1_score": 0.898,
+    "roc_auc": 0.938
+  },
+  "random_forest_cv_roc_auc_mean": 0.948,
+  "random_forest_cv_roc_auc_std": 0.003,
+  "churn_feature_columns": [
+    "age",
+    "customer_tenure_days",
+    "recency_days",
+    "frequency",
+    "monetary",
+    "avg_order_value",
+    "total_items_purchased",
+    "unique_products_purchased",
+    "unique_categories_purchased",
+    "average_discount",
+    "purchase_trend_ratio",
+    "loyalty_points",
+    "loyalty_tier_encoded"
+  ]
+}
