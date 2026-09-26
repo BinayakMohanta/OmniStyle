@@ -3,6 +3,7 @@
 An end-to-end customer intelligence platform for **OmniStyle**, a fictional
 retail clothing brand — built to demonstrate the full data lifecycle from
 raw operational data through machine learning and business recommendations.
+<img width="788" height="733" alt="image" src="https://github.com/user-attachments/assets/f279e5a6-9a05-484c-ad54-e041cf3cae6c" />
 
 ---
 
